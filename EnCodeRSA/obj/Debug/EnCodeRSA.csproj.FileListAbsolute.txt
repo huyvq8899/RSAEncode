@@ -1,0 +1,11 @@
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\bin\Debug\EnCodeRSA.exe.config
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\bin\Debug\EnCodeRSA.exe
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\bin\Debug\EnCodeRSA.pdb
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\obj\Debug\EnCodeRSA.csproj.AssemblyReference.cache
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\obj\Debug\EnCodeRSA.Form1.resources
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\obj\Debug\EnCodeRSA.Properties.Resources.resources
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\obj\Debug\EnCodeRSA.csproj.GenerateResource.cache
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\obj\Debug\EnCodeRSA.csproj.CoreCompileInputs.cache
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\obj\Debug\EnCodeRSA.exe
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\obj\Debug\EnCodeRSA.pdb
+D:\Project-PMBK\Learn\WindowForm\EnCodeRSA\EnCodeRSA\obj\Debug\EnCodeRSA.GiaiMa.resources
